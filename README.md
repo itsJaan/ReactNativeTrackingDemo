@@ -41,6 +41,8 @@ git clone https://github.com/itsJaan/react-native-tracking-demo.git
 cd react-native-tracking-demo
 npm install
 
+```
+
 
 ## 👨‍💻 Author
 
