@@ -40,3 +40,14 @@ This project demonstrates map-based interfaces, live tracking logic, and mobile 
 git clone https://github.com/itsJaan/react-native-tracking-demo.git
 cd react-native-tracking-demo
 npm install
+
+
+## 👨‍💻 Author
+
+**Javier Nuñez**  
+Full Stack Developer | React • React Native • Node.js  
+
+Building scalable web & mobile applications with real-time features, geolocation systems, and modern UI architectures.
+
+- 🌐 LinkedIn: https://www.linkedin.com/in/javier-nunez-709318162/  
+- 💻 GitHub: https://github.com/itsJaan  
